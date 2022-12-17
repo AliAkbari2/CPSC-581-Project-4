@@ -1,4 +1,4 @@
-For our fourth project for CPSC 581 (Human Computer Interaction II), we were asked to:
+For our fourth project for CPSC 581 (Human Computer Interaction II), we were asked to:  
 Create a physical prototype to solve an everyday problem. Solve an everyday problem with arduino with the following rules:  
   1. You must have at least one output and input device (see sensor sheet).  
   2. All wires/boards must be hidden (anything that does not need to be exposed is covered) by using physical prototyping.  
