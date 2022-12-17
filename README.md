@@ -11,19 +11,19 @@ Demo:
 
 **Contribution**   
 Ali Akbari: 
-- 10 preliminary concept sketches for the touch base.
+- 10 preliminary concept sketches.
 - Implementation: logic and design.
 - Voice over for the Demo and Concept Video. 
 
 
 Mustafa Mukhlis:  
-- 10 preliminary concept sketches for the touch base.  
+- 10 preliminary concept sketches. 
 - Implementation: logic and design.
 - Demo recording and presentation.
 
 
 Joshua Ngo:   
-- 10 preliminary concept sketches for the touch base. 
+- 10 preliminary concept sketches.
 - Script for Demo and Concept Video.
 - Implementation: logic and design.
 - Editing Demo and Concept Video.
@@ -31,7 +31,7 @@ Joshua Ngo:   
 
 
 Jin Sato:   
-- 10 preliminary concept sketches for the touch base.    
+- 10 preliminary concept sketches.  
 - Implementation: logic and design.
 - Concept video still images.
 - Demo video videography.
