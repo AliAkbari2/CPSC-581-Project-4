@@ -6,6 +6,9 @@ Create a physical prototype to solve an everyday problem. Solve an everyday prob
 
 Overall Description
 
+Sketches and Write-Up:  
+https://docs.google.com/document/d/18Y_-AkKSUr8cXrbb8GX6wRpugy0PFiAPYlxyMskgLrc/edit?usp=sharing  
+
 Concept Video:  
 Demo:  
 
