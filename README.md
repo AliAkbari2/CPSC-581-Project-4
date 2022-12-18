@@ -23,6 +23,7 @@ Mustafa Mukhlis:
 - 10 preliminary concept sketches. 
 - Implementation: logic and design.
 - Demo recording and presentation.
+- Write-ups for the sketches
 
 
 Joshua Ngo:   
